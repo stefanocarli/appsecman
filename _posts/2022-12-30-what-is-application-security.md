@@ -3,7 +3,7 @@ layout: post
 title:  "What is application security"
 author: stef
 categories: [ Application Security ]
-image: https://images.unsplash.com/photo-1647166545674-ce28ce93bdca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
+image: https://images.unsplash.com/photo-1518960000669-88a07e6c8bb4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1973&q=80
 tags: [basics]
 ---
 Application security is a critical aspect of protecting modern organizations and their stakeholders from digital threats and vulnerabilities. In today's digital world, applications and systems play a central role in many aspects of our personal and professional lives, and it is essential to ensure that they are secure. This article will provide an overview of application security, including its purpose, the types of threats it is designed to protect against, and the various components and tools that are used to implement effective security measures. It will also discuss the benefits of implementing strong application security practices and the role of application security in the broader context of cyber security. By the end of the article, you will have a comprehensive understanding of application security and how to protect your organization from security threats and vulnerabilities.
@@ -41,6 +41,8 @@ Implementing effective application security measures can help organizations prot
 ## Application security in the broader context of cyber security
 
 Application security plays a crucial role in the broader context of cyber security. Cyber security refers to the protection of computer systems, networks, and devices from digital threats such as cyber attacks, data breaches, and malware. Application security is a key component of this, as it focuses specifically on protecting applications and systems from security threats and vulnerabilities.
+
+![Cyber Security overview](https://twitter.com/Shubham_pen/status/1553753599833821184/photo/1)
 
 Maintaining strong security practices across all aspects of an organization is essential for protecting against these threats. This includes not only implementing effective application security measures, but also implementing strong security practices in other areas such as network security, device security, and data security. By taking a holistic approach to cyber security, organizations can better protect themselves and their customers from a variety of threats.
 
